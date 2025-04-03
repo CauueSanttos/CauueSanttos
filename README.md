@@ -10,6 +10,7 @@ Software Engineer specializing in full-stack development, focused on building sc
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 ## 📌 Featured Projects
@@ -20,9 +21,9 @@ Software Engineer specializing in full-stack development, focused on building sc
 | [Flappy Bird](https://github.com/CauueSanttos/flappy-bird) | A recreation of the Flappy Bird game using vanilla JavaScript. |
 | [Pipefy Clone](https://github.com/CauueSanttos/pipefy-rocketfy) | Kanban-style board app built with React and styled-components. |
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CauueSanttos&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauueSanttos&layout=compact&langs_count=10)
 
 ## 📫 Contact
 
